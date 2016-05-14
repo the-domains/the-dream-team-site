@@ -1,0 +1,28 @@
+name: The Dream Team Site
+favicon: null
+layout_spectrum: 0.7410350872669369
+typography_spectrum: 0.8242497353348881
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4181602399330586
+  lightness: 0.5047287084162235
+  saturation: 0.12588312686420977
+  rhythmicContrast: 0.5704744532704353
+purpose: []
